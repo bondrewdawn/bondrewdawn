@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bondrewdawn
+- 👋 Hi, I’m @emerz3
 - 👀 I’m interested in Reading & Gaming.
 - 🌱 I’m currently learning `Rust` & `C++` & `DBMS`
 - 💞️ I’m looking to collaborate on ...
